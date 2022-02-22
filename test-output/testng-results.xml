@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-22T16:11:19 IST" name="Default suite" finished-at="2022-02-22T16:11:29 IST" duration-ms="10527">
+    <groups>
+    </groups>
+    <test started-at="2022-02-22T16:11:19 IST" name="Default test" finished-at="2022-02-22T16:11:29 IST" duration-ms="10527">
+      <class name="testCases.DriverTest">
+        <test-method signature="fnBrowserStart()[pri:0, instance:testCases.DriverTest@6404f418]" started-at="2022-02-22T16:11:19 IST" name="fnBrowserStart" finished-at="2022-02-22T16:11:29 IST" duration-ms="10356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnBrowserStart -->
+      </class> <!-- testCases.DriverTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
